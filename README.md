@@ -23,3 +23,9 @@ El sistema demuestra el manejo de estructuras complejas mediante:
 1. Clona este repositorio.
 2. Abre la terminal en la carpeta del proyecto.
 3. Ejecuta el comando: `dotnet run`
+   
+## Lo que he aprendido
+Este ejercicio me ha permitido comprender:
+- Cómo el polimorfismo permite tratar diferentes objetos como una sola referencia base.
+- La importancia de las interfaces para extender las capacidades de las clases sin romper la jerarquía de herencia.
+- Cómo proteger la integridad de los datos usando propiedades con validaciones.
